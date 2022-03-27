@@ -4,7 +4,7 @@
  * - Use LinkedList to do the Hash Table Operation like here the removal of word avoidable
  * - To do this create MyMapNode with Key Value Pair and create LinkedList of MyMapNode
  * @File : Data Structure Using Hash Table
- * @Author : Ajit
+ * @Author : Ajit Vibute
  */
 package com.bridgelabz;
 
